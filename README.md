@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm frontend developer.
+Using React.js and Next.js for development.
+
 <!--
 **dvlee/dvlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
